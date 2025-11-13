@@ -1,3 +1,4 @@
 # my_team_first_APP
 in here,we save all code about my first APP
-这是基于我们的大创开创的一个仿真APP的软件开发部分。本质上是利用comsol的APP开发模块，然后通过大量的操作，
+这是基于我们的大创开创的一个仿真APP的软件开发部分。本质上是利用comsol的APP开发模块，然后通过大量的操作，（操作者为冷兴）搭建了前端的页面，同时进行了图案的美化，使之成为了一个非常好用的软件。
+同时，我们利用comsol with matlab，把场域参数设置进行了导出，具体文件为jqm.mat，需要者可以进行下载。
